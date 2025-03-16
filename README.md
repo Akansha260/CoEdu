@@ -2,13 +2,13 @@
 This project is a real-time video conferencing platform designed to facilitate seamless virtual communication. It allows users to create or join room-based meetings, interact via video and chat, and collaborate effectively. The platform supports multi-user video calls, ensuring smooth and lag-free communication.
 
 Features : 
-✅ User Authentication – Secure login and account management.
-✅ Room-Based Meetings – Users can create or join virtual meeting rooms.
-✅ Multi-User Video Calls – Supports group video conferencing with multiple participants.
-✅ Screen Sharing – Share your screen for presentations or collaboration.
-✅ Real-Time Chat – Instant messaging within the meeting room.
-✅ Mute/Unmute & Camera Control – Toggle microphone and camera during calls.
-✅ End Call Option – Users can leave the call or end the meeting at any time.
+1.User Authentication – Secure login and account management.
+2. Room-Based Meetings – Users can create or join virtual meeting rooms.
+3. Multi-User Video Calls – Supports group video conferencing with multiple participants.
+4. Screen Sharing – Share your screen for presentations or collaboration.
+5. Real-Time Chat – Instant messaging within the meeting room.
+6. Mute/Unmute & Camera Control – Toggle microphone and camera during calls.
+7. End Call Option – Users can leave the call or end the meeting at any time.
 
 Tech Stack 
 Frontend (Client-Side)
